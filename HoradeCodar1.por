@@ -1,6 +1,6 @@
 // Programa com vários exercícios de lógica
 // Autor: Gabryel
-// O programa mostra exemplos de variáveis, entrada de dados e cálculo de áreas
+
 
 programa
 {
